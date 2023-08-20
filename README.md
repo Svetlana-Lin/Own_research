@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Svetlana-Lin
-- 👀 I’m interested in ...
+- 👀 I’m interested in daat Science
 - 🌱 I’m currently learning in Skillfactory
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  ss86s@mail.ru
 
-<!---
-Svetlana-Lin/Svetlana-Lin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+В этом репозитории я буду выкладывать свои собственные работы, не связанные с учебными проектами.
+_____________
+In this repository, I will post my own work, not related to educational projects.
+
