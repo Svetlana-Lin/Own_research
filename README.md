@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Svetlana-Lin
-- 👀 I’m interested in daat Science
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning in Skillfactory
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  ss86s@mail.ru
